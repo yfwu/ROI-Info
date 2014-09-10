@@ -55,10 +55,18 @@
 
 - (IBAction)extractButtonPressed:(id)sender
 {
-    NSLog(@"RoiSelection index = %d", RoiSelection);
-    NSLog(@"Current image index = %d", curImageIdx);
-    NSLog(@"Current time index = %d", curTimeIdx);
-    NSLog(@"Number of time indices = %d", numTimeImages);
+    // Grab this so that we always have the viewer with the focus.
+    viewerController = [ViewerController frontMostDisplayed2DViewer];
+
+    // Some information about which slice in which image is being viewed.
+    curImageIdx = (int)viewerController.imageIndex;
+    curTimeIdx = (int)viewerController.curMovieIndex;
+    numTimeImages = (int)viewerController.maxMovieIndex;
+
+    //    NSLog(@"RoiSelection index = %d", RoiSelection);
+    //    NSLog(@"Current image index = %d", curImageIdx);
+    //    NSLog(@"Current time index = %d", curTimeIdx);
+    //    NSLog(@"Number of time indices = %d", numTimeImages);
 
     NSSavePanel* panel = [NSSavePanel savePanel];
     [panel setAllowedFileTypes:[NSArray arrayWithObjects:@"csv", nil]];
@@ -97,7 +105,13 @@
             break;
     }
 
-    [self saveData:roiInfo to:url];
+    NSError* error = [self saveData:roiInfo to:url];
+    if (error != nil)
+    {
+        NSLog(@"%@", [error localizedDescription]);
+        NSLog(@"%@", [error localizedFailureReason]);
+        NSLog(@"%@", [error localizedRecoverySuggestion]);
+    }
 }
 
 - (IBAction)helpButtonPressed:(id)sender
@@ -199,7 +213,16 @@
         // The ROIs for this image.
         NSArray* roiListList = [viewerController roiList:timeIdx];
 
-        if (roiListList.count != 0)
+        // See if there are any ROIs in this image.
+        BOOL roiFound = NO;
+        for (NSArray* array in roiListList)
+        {
+            if (array.count != 0)
+                roiFound = YES;
+        }
+
+        // Process image only if there is one or more ROIs.
+        if (roiFound)
         {
             [retVal appendFormat:@"Image: %d,,,,\n", timeIdx];
             [retVal appendString:[self extractRoiInfoInImage:roiListList]];
@@ -217,8 +240,9 @@
     [stream open];
     i = [stream write:(const uint8_t *)[data UTF8String] maxLength:data.length];
 
-    NSError* error = [stream streamError];
+    NSLog(@"%d bytes written of %d max.", (int)i, (int)data.length);
 
+    NSError* error = [stream streamError];
     return error;
 }
 

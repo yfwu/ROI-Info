@@ -16,10 +16,11 @@
 {
     enum RoiSelectionType
     {
-        AllInImage,
-        AllInSeries
+        AllInImage,  // Process all ROIs in current image
+        AllInSeries  // Process all ROIs in current series
     };
 
+    // Bound to radio matrix ControlPanel.xib
     enum RoiSelectionType RoiSelection;
     
     ViewerController* viewerController;
