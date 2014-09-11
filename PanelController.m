@@ -98,7 +98,8 @@
 
             // The ROIs for this image.
             NSArray* roiListList = [viewerController roiList:curTimeIdx];
-            [roiInfo appendString:[self extractRoiInfoInImage:roiListList]];
+            NSArray* pixList = [viewerController pixList:curTimeIdx];
+            [roiInfo appendString:[self extractRoiInfoInImage:roiListList PixArray:pixList]];
             //NSLog(@"%@", roiInfo);
             break;
 
@@ -141,7 +142,7 @@
 }
 
 // Return a string containing values and coordinates in one ROI
-- (NSString*)extractRoiValuesAndCoordinates:(ROI*)roi
+- (NSString*)extractRoiValuesAndCoordinates:(ROI*)roi from:(DCMPix*)curPix
 {
     // return value
     NSMutableString* retVal = [NSMutableString stringWithCapacity:100];
@@ -166,25 +167,37 @@
      */
 	float* coords;
 	long size;
-	float* data = [[[roi curView] curDCM] getROIValue:&size :roi :&coords];
+
+    /*
+     * DCMPix* curPix = [[roi curView] curDCM];
+     * We should be able to do this but Osirix neglects to store the DCMView properly
+     * when it propagates ROIs. As a result we have to keep track of the current DCMPix
+     * separately. Should this ever change the handling of the DCMPix arrays can be stripped
+     * from the code.
+     */
+    float* data = [curPix getROIValue:&size :roi :&coords];
 
     for (int i = 0, j = 0; i < (int)size; i++, j+=2)
     {
-        [retVal appendFormat:@",%d,%d,%.6f,\n", (int)coords[j], (int)coords[j+1],
-         data[i]];
+        [retVal appendFormat:@",%d,%d,%.6f,\n", (int)coords[j], (int)coords[j+1], data[i]];
     }
+    free(coords);
+    free(data);
 
     return retVal;
 }
 
 // Extract the values and coordinates for the ROIs in one slice
-- (NSString*)extractRoiInfoInSlice:(NSArray*)roiList
+- (NSString*)extractRoiInfoInSlice:(NSArray*)roiList pix:(DCMPix*)curPix
 {
     NSMutableString* retVal = [NSMutableString stringWithCapacity:1000];
 
-    for (ROI* roi in roiList)
+    for (NSUInteger idx = 0; idx < roiList.count; ++idx)
     {
-        [retVal appendString:[self extractRoiValuesAndCoordinates:roi]];
+        ROI* roi = [roiList objectAtIndex:idx];
+        //DCMPix* pix = [pixList objectAtIndex:idx];
+        
+        [retVal appendString:[self extractRoiValuesAndCoordinates:roi from:curPix]];
     }
 
     return retVal;
@@ -192,18 +205,21 @@
 
 // Extract the values and coordinates for the ROIs in one image, potentially
 // with more than one slice.
-- (NSString*)extractRoiInfoInImage:(NSArray*)roiListList
+- (NSString*)extractRoiInfoInImage:(NSArray*)roiListList PixArray:(NSArray*)pixList
 {
     NSMutableString* retVal = [NSMutableString stringWithCapacity:1000];
 
+    //for (NSArray* roiList in roiListList)
     int sliceIdx = 0;
-    for (NSArray* roiList in roiListList)
+    for (NSUInteger idx = 0; idx < roiListList.count; ++idx)
     {
+        DCMPix* curPix = [pixList objectAtIndex:idx];
+        NSArray* roiList = [roiListList objectAtIndex:idx];
         if (roiList.count != 0)
         {
             int sliceNum = [self indexToSliceNumber:sliceIdx];
             [retVal appendFormat:@"Slice: %d,,,,\n", sliceNum];
-            [retVal appendString:[self extractRoiInfoInSlice:roiList]];
+            [retVal appendString:[self extractRoiInfoInSlice:roiList pix:curPix]];
         }
         ++sliceIdx;
     }
@@ -220,6 +236,7 @@
     {
         // The ROIs for this image.
         NSArray* roiListList = [viewerController roiList:timeIdx];
+        NSArray* pixListList = [viewerController pixList:timeIdx];
 
         // See if there are any ROIs in this image.
         BOOL roiFound = NO;
@@ -233,7 +250,7 @@
         if (roiFound)
         {
             [retVal appendFormat:@"Image: %d,,,,\n", timeIdx];
-            [retVal appendString:[self extractRoiInfoInImage:roiListList]];
+            [retVal appendString:[self extractRoiInfoInImage:roiListList PixArray:pixListList]];
         }
     }
 

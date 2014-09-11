@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		2205D79F19BDDECF0012733A /* PanelController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2205D79D19BDDECF0012733A /* PanelController.h */; };
 		2205D7A019BDDECF0012733A /* PanelController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2205D79E19BDDECF0012733A /* PanelController.m */; };
+		2285E4F819C2184700AE97C2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2285E4F719C2184700AE97C2 /* README.md */; };
 		22950FF219BF77EE00D7865F /* Readme.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 22950FF119BF77EE00D7865F /* Readme.rtf */; };
 		22950FF619BF7CD100D7865F /* HelpPanelController.h in Headers */ = {isa = PBXBuildFile; fileRef = 22950FF319BF7CD000D7865F /* HelpPanelController.h */; };
 		22950FF719BF7CD100D7865F /* HelpPanelController.m in Sources */ = {isa = PBXBuildFile; fileRef = 22950FF419BF7CD000D7865F /* HelpPanelController.m */; };
@@ -29,6 +30,7 @@
 		1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
 		2205D79D19BDDECF0012733A /* PanelController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PanelController.h; sourceTree = "<group>"; };
 		2205D79E19BDDECF0012733A /* PanelController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PanelController.m; sourceTree = "<group>"; };
+		2285E4F719C2184700AE97C2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		22950FF119BF77EE00D7865F /* Readme.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = Readme.rtf; sourceTree = "<group>"; };
 		22950FF319BF7CD000D7865F /* HelpPanelController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelpPanelController.h; sourceTree = "<group>"; };
 		22950FF419BF7CD000D7865F /* HelpPanelController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelpPanelController.m; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 		089C167CFE841241C02AAC07 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				2285E4F719C2184700AE97C2 /* README.md */,
 				8D5B49B7048680CD000E48DA /* Info.plist */,
 				089C167DFE841241C02AAC07 /* InfoPlist.strings */,
 				22950FF519BF7CD000D7865F /* HelpPanel.xib */,
@@ -206,6 +209,7 @@
 			files = (
 				22950FF219BF77EE00D7865F /* Readme.rtf in Resources */,
 				22950FF819BF7CD100D7865F /* HelpPanel.xib in Resources */,
+				2285E4F819C2184700AE97C2 /* README.md in Resources */,
 				22C6860D19B8B8E000CB5F5D /* ControlPanel.xib in Resources */,
 				8D5B49B0048680CD000E48DA /* InfoPlist.strings in Resources */,
 			);
@@ -253,7 +257,7 @@
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 1.01;
+				CURRENT_PROJECT_VERSION = 1.02;
 				DEBUGGING_SYMBOLS = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -299,7 +303,7 @@
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = YES;
-				CURRENT_PROJECT_VERSION = 1.01;
+				CURRENT_PROJECT_VERSION = 1.02;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)",

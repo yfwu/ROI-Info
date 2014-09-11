@@ -35,6 +35,306 @@ c00000000538A1D2700000000000001DE
 t1401560359
 s478
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c00000000538A1D270000000000268434
+t1401560359
+s2524212
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c00000000538A1D270000000000007D5C
+t1401560359
+s32092
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c00000000538A1D270000000000020D64
+t1401560359
+s134500
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c00000000538A1D27000000000001B3B8
+t1401560359
+s111544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c00000000538A1D270000000000034FAC
+t1401560359
+s217004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c00000000538A1D27000000000000CB08
+t1401560359
+s51976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c00000000538A1D27000000000002C5F4
+t1401560359
+s181748
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c00000000538A1D27000000000002B9A8
+t1401560359
+s178600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c00000000538A1D270000000000011EF8
+t1401560359
+s73464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000538A1D2800000000000598A8
+t1401560360
+s366760
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000538A1D28000000000000253C
+t1401560360
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c00000000538A1D28000000000004C7C4
+t1401560360
+s313284
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000538A1D280000000000085C70
+t1401560360
+s547952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000538A1D28000000000008B334
+t1401560360
+s570164
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c00000000538A1D28000000000000979C
+t1401560360
+s38812
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c00000000538A1D2800000000000223B4
+t1401560360
+s140212
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c00000000538A1D280000000000071CA8
+t1401560360
+s466088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c00000000538A1D280000000000017E1C
+t1401560360
+s97820
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c00000000538A1D28000000000004F090
+t1401560360
+s323728
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c00000000538A1D28000000000003AA48
+t1401560360
+s240200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c00000000538A1D2800000000000383CC
+t1401560360
+s230348
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c00000000538A1D28000000000001B66C
+t1401560360
+s112236
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000538A1D280000000000030448
+t1401560360
+s197704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000538A1D2800000000000C9E38
+t1401560360
+s826936
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000538A1D2800000000000394B0
+t1401560360
+s234672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c00000000538A1D2B000000000000681C
+t1401560363
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+c00000000538A1D2B0000000000014EF8
+t1401560363
+s85752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000538A1D2B0000000000004734
+t1401560363
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000538A1D2B000000000000FC6C
+t1401560363
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000538A1D2B000000000000F6A0
+t1401560363
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000538A1D2B0000000000006254
+t1401560363
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000538A1D2B000000000000E0F8
+t1401560363
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c00000000538A1D2B000000000000D6DC
+t1401560363
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000538A1D2B0000000000006308
+t1401560363
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000538A1D2B0000000000004050
+t1401560363
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000538A1D2B0000000000008570
+t1401560363
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000538A1D2B0000000000005EA0
+t1401560363
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000538A1D2B0000000000005FAC
+t1401560363
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000538A1D2B0000000000004440
+t1401560363
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000538A1D2B000000000000AA28
+t1401560363
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000538A1D2B0000000000003E2C
+t1401560363
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000538A1D2B0000000000030B04
+t1401560363
+s199428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000538A1D2B0000000000005E54
+t1401560363
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000538A1D2B0000000000006A90
+t1401560363
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c00000000538A1D2B00000000000178AC
+t1401560363
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000538A1D2B000000000001ADC8
+t1401560363
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c00000000538A1D2B000000000001028C
+t1401560363
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000538A1D2B0000000000008800
+t1401560363
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000538A1D2B0000000000011090
+t1401560363
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000538A1D2B000000000000882C
+t1401560363
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000538A1D2B00000000000067AC
+t1401560363
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000538A1D2B0000000000008DEC
+t1401560363
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000538A1D2B0000000000004C08
+t1401560363
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000538A1D2B0000000000002428
+t1401560363
+s9256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c00000000538A1D2B000000000000439C
+t1401560363
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000538A1D2B0000000000006768
+t1401560363
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c00000000538A1D2B00000000000172F4
+t1401560363
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_macosx.a
+c00000000538A1D30000000000000BAF8
+t1401560368
+s47864
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.eprintf.a
+c00000000538A1D310000000000000720
+t1401560369
+s1824
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+c00000000538A1D310000000000001770
+t1401560369
+s6000
+
 N/System/Library/Frameworks/Cocoa.framework/Cocoa
 c00000000532B17DD00000000000066C0
 t1395333085
@@ -55,20 +355,35 @@ c00000000540F4A5B0000000000001585
 t1410288219
 s5509
 
+N/Users/tim/devel/ROI_Info/HelpPanelController.h
+c00000000540F47B20000000000000101
+t1410287538
+s257
+
 N/Users/tim/devel/ROI_Info/HelpPanelController.m
 c00000000540F4A5B000000000000028E
 t1410288219
 s654
 
 N/Users/tim/devel/ROI_Info/Info.plist
-c0000000054118FBC00000000000002FA
-t1410437052
+c000000005411E07A00000000000002FA
+t1410457722
 s762
 
+N/Users/tim/devel/ROI_Info/PanelController.h
+c0000000054119AE70000000000000468
+t1410439911
+s1128
+
 N/Users/tim/devel/ROI_Info/PanelController.m
-c000000005411A0150000000000001C8A
-t1410441237
-s7306
+c000000005411D925000000000000203E
+t1410455845
+s8254
+
+N/Users/tim/devel/ROI_Info/ROI_InfoFilter.h
+c00000000540F3C6A0000000000000143
+t1410284650
+s323
 
 N/Users/tim/devel/ROI_Info/ROI_InfoFilter.m
 c00000000540F47B200000000000008CF
@@ -86,16 +401,16 @@ t1410288488
 s3929
 
 N/Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin
-t1410441399
+t1410455846
 s102
 
 N/Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin/Contents/Info.plist
-t1410441399
+t1410457745
 s1141
 
 N/Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin/Contents/MacOS/ROI_Info
-t1410441400
-s88232
+t1410455846
+s88304
 
 N/Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin/Contents/Resources/ControlPanel.nib
 t1410441399
@@ -118,12 +433,12 @@ t1410441400
 s20592
 
 N/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/PanelController.o
-t1410441400
-s143908
+t1410455846
+s143252
 
 N/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info
-t1410441400
-s30888
+t1410455846
+s30960
 
 N/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info.LinkFileList
 c000000005411A0B70000000000000141
@@ -139,12 +454,12 @@ t1410441400
 s22620
 
 N/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/PanelController.o
-t1410441400
-s155872
+t1410455846
+s155332
 
 N/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info
-t1410441400
-s50524
+t1410455846
+s50596
 
 N/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info.LinkFileList
 c000000005411A0B70000000000000147
@@ -154,6 +469,51 @@ s327
 N/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_InfoFilter.o
 t1410441400
 s116836
+
+N/Users/tim/devel/osirix/build/Development/OsiriXAPI.framework/Headers/DCMPix.h
+c0000000053B1DF6B0000000000005E81
+t1404165995
+s24193
+
+N/Users/tim/devel/osirix/build/Development/OsiriXAPI.framework/Headers/DCMView.h
+c0000000053B1DF6B0000000000005DC9
+t1404165995
+s24009
+
+N/Users/tim/devel/osirix/build/Development/OsiriXAPI.framework/Headers/MyPoint.h
+c0000000053B1DF6B0000000000000389
+t1404165995
+s905
+
+N/Users/tim/devel/osirix/build/Development/OsiriXAPI.framework/Headers/N3Geometry.h
+c0000000053B1DF6C0000000000002B6D
+t1404165996
+s11117
+
+N/Users/tim/devel/osirix/build/Development/OsiriXAPI.framework/Headers/Notifications.h
+c0000000053B1DF6B00000000000017E8
+t1404165995
+s6120
+
+N/Users/tim/devel/osirix/build/Development/OsiriXAPI.framework/Headers/OSIWindowController.h
+c0000000053B1DF6B00000000000007A9
+t1404165995
+s1961
+
+N/Users/tim/devel/osirix/build/Development/OsiriXAPI.framework/Headers/PluginFilter.h
+c0000000053B1DF6B0000000000000F03
+t1404165995
+s3843
+
+N/Users/tim/devel/osirix/build/Development/OsiriXAPI.framework/Headers/ROI.h
+c0000000053B1DF6B0000000000003565
+t1404165995
+s13669
+
+N/Users/tim/devel/osirix/build/Development/OsiriXAPI.framework/Headers/ViewerController.h
+c0000000053B1DF6C0000000000009B7A
+t1404165996
+s39802
 
 N/Users/tim/devel/osirix/build/Development/OsiriXAPI.framework/OsiriXAPI
 c00000000540710EB0000000000007170
@@ -179,7 +539,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc1e55937d8c1b941^295b6437d8c1b941^---0#1#1#--18"Check dependencies36"46C56515-4DD8-4CC1-ACDC-95BB04BF3E84-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa33f601118c2b941^cede691118c2b941^---0#1#1#--18"Check dependencies36"6B6C2070-8907-4D13-9021-E95BD2E3750D-
 
 CCompileC build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/HelpPanelController.o /Users/tim/devel/ROI_Info/HelpPanelController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s432134200.650434
@@ -198,8 +558,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile
 b72197994-4CC5-4806-ADC0-6973000AC134
 
 CCompileC build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/PanelController.o /Users/tim/devel/ROI_Info/PanelController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s432134200.650174
-e432134200.852831
+s432148645.965552
+e432148646.153585
 r1
 xCompileC
 xbuild/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/PanelController.o
@@ -218,8 +578,8 @@ d/Users/tim/devel/osirix/build/Development/OsiriXAPI.framework/Headers/N3Geometr
 d/Users/tim/devel/osirix/build/Development/OsiriXAPI.framework/Headers/DCMPix.h
 d/Users/tim/devel/ROI_Info/PanelController.h
 d/Users/tim/devel/ROI_Info/HelpPanelController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Users/tim/devel/ROI_Info/PanelController.m174"CompileC build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/PanelController.o PanelController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0189a638d8c1b941^fc53da38d8c1b941^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/tim/devel/ROI_Info/PanelController.m0000000000000000^2437"CompileC build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/PanelController.o PanelController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tim/devel/ROI_Info    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -I/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/ROI_Info.hmap -I/Users/tim/devel/ROI_Info/build/Debug/include -I/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/DerivedSources/i386 -I/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/tim/devel/ROI_Info/build/Debug -F/Users/tim/devel/ROI_Info -F/Users/tim/devel/osirix/build/Development -include /var/folders/md/y6dpb27968d1nfy8h7cs40400000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ROI_Info_Prefix-gjhfqlxyutqmsubzmpummwfplyfx/ROI_Info_Prefix.pch -MMD -MT dependencies -MF /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/PanelController.d --serialize-diagnostics /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/PanelController.dia -c /Users/tim/devel/ROI_Info/PanelController.m -o /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/PanelController.o36"CBA614C2-7121-4A5A-BACC-3029193D2C2C-
-b72197994-4CC5-4806-ADC0-6973000AC134
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Users/tim/devel/ROI_Info/PanelController.m174"CompileC build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/PanelController.o PanelController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1c44f7a510c2b941^a45327a610c2b941^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/tim/devel/ROI_Info/PanelController.m0000000000000000^2437"CompileC build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/PanelController.o PanelController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tim/devel/ROI_Info    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -I/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/ROI_Info.hmap -I/Users/tim/devel/ROI_Info/build/Debug/include -I/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/DerivedSources/i386 -I/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/tim/devel/ROI_Info/build/Debug -F/Users/tim/devel/ROI_Info -F/Users/tim/devel/osirix/build/Development -include /var/folders/md/y6dpb27968d1nfy8h7cs40400000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ROI_Info_Prefix-gjhfqlxyutqmsubzmpummwfplyfx/ROI_Info_Prefix.pch -MMD -MT dependencies -MF /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/PanelController.d --serialize-diagnostics /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/PanelController.dia -c /Users/tim/devel/ROI_Info/PanelController.m -o /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/PanelController.o36"A7B8D13F-609D-4013-8795-147E71E9AEA7-
+b4A772605-2327-46D4-8232-F85894023A3D
 
 CCompileC build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_InfoFilter.o /Users/tim/devel/ROI_Info/ROI_InfoFilter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s432134200.650756
@@ -264,8 +624,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile
 b72197994-4CC5-4806-ADC0-6973000AC134
 
 CCompileC build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/PanelController.o /Users/tim/devel/ROI_Info/PanelController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s432134200.649476
-e432134200.858318
+s432148645.965084
+e432148646.154170
 r1
 xCompileC
 xbuild/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/PanelController.o
@@ -284,8 +644,8 @@ d/Users/tim/devel/osirix/build/Development/OsiriXAPI.framework/Headers/N3Geometr
 d/Users/tim/devel/osirix/build/Development/OsiriXAPI.framework/Headers/DCMPix.h
 d/Users/tim/devel/ROI_Info/PanelController.h
 d/Users/tim/devel/ROI_Info/HelpPanelController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Users/tim/devel/ROI_Info/PanelController.m178"CompileC build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/PanelController.o PanelController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf052a638d8c1b941^e4bcdb38d8c1b941^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/tim/devel/ROI_Info/PanelController.m0000000000000000^2451"CompileC build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/PanelController.o PanelController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tim/devel/ROI_Info    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -I/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/ROI_Info.hmap -I/Users/tim/devel/ROI_Info/build/Debug/include -I/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/DerivedSources/x86_64 -I/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/tim/devel/ROI_Info/build/Debug -F/Users/tim/devel/ROI_Info -F/Users/tim/devel/osirix/build/Development -include /var/folders/md/y6dpb27968d1nfy8h7cs40400000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ROI_Info_Prefix-ckwkfxnhkxtjgsfsvnutqnjkpwto/ROI_Info_Prefix.pch -MMD -MT dependencies -MF /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/PanelController.d --serialize-diagnostics /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/PanelController.dia -c /Users/tim/devel/ROI_Info/PanelController.m -o /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/PanelController.o36"DE8B2584-9F9B-4EFE-AFD4-3296393A164B-
-b72197994-4CC5-4806-ADC0-6973000AC134
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Users/tim/devel/ROI_Info/PanelController.m178"CompileC build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/PanelController.o PanelController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8528f7a510c2b941^577c27a610c2b941^---0#0#1#-19%DVTDocumentLocation2@50"file:///Users/tim/devel/ROI_Info/PanelController.m0000000000000000^2451"CompileC build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/PanelController.o PanelController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tim/devel/ROI_Info    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -I/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/ROI_Info.hmap -I/Users/tim/devel/ROI_Info/build/Debug/include -I/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/DerivedSources/x86_64 -I/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/tim/devel/ROI_Info/build/Debug -F/Users/tim/devel/ROI_Info -F/Users/tim/devel/osirix/build/Development -include /var/folders/md/y6dpb27968d1nfy8h7cs40400000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ROI_Info_Prefix-ckwkfxnhkxtjgsfsvnutqnjkpwto/ROI_Info_Prefix.pch -MMD -MT dependencies -MF /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/PanelController.d --serialize-diagnostics /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/PanelController.dia -c /Users/tim/devel/ROI_Info/PanelController.m -o /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/PanelController.o36"BEACD2FD-ABAB-4529-8275-C016BEBF64AD-
+b4A772605-2327-46D4-8232-F85894023A3D
 
 CCompileC build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_InfoFilter.o /Users/tim/devel/ROI_Info/ROI_InfoFilter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s432134200.649837
@@ -352,19 +712,19 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy bu
 b72197994-4CC5-4806-ADC0-6973000AC134
 
 CCreateUniversalBinary /Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin/Contents/MacOS/ROI_Info normal x86_64\ i386
-s432134200.943043
-e432134200.947174
+s432148646.188734
+e432148646.192870
 r1
 xCreateUniversalBinary
 x/Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin/Contents/MacOS/ROI_Info
 xnormal
 xx86_64 i386
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Create universal binary /Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin/Contents/MacOS/ROI_Info99"CreateUniversalBinary build/Debug/ROI_Info.osirixplugin/Contents/MacOS/ROI_Info normal x86_64\ i3866876f138d8c1b941^d97af238d8c1b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin/Contents/MacOS/ROI_Info0034184cdeffdf42^525"CreateUniversalBinary build/Debug/ROI_Info.osirixplugin/Contents/MacOS/ROI_Info normal x86_64\ i386    cd /Users/tim/devel/ROI_Info    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info -output /Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin/Contents/MacOS/ROI_Info36"F22EE5CA-D120-4194-9181-1BA8CEE67BDB-
-b72197994-4CC5-4806-ADC0-6973000AC134
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Create universal binary /Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin/Contents/MacOS/ROI_Info99"CreateUniversalBinary build/Debug/ROI_Info.osirixplugin/Contents/MacOS/ROI_Info normal x86_64\ i386e25b30a610c2b941^c86031a610c2b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin/Contents/MacOS/ROI_Info0000000000000000^525"CreateUniversalBinary build/Debug/ROI_Info.osirixplugin/Contents/MacOS/ROI_Info normal x86_64\ i386    cd /Users/tim/devel/ROI_Info    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info -output /Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin/Contents/MacOS/ROI_Info36"632C8BFA-0B5D-44EE-BA1F-32CEEBA3CD2F-
+b4A772605-2327-46D4-8232-F85894023A3D
 
 CLd /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info normal i386
-s432134200.909384
-e432134200.942093
+s432148646.155885
+e432148646.186855
 r1
 xLd
 x/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info
@@ -433,12 +793,12 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Link /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info85"Ld build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info normal i3867bd7e838d8c1b941^882df138d8c1b941^---0#0#1#--1019"Ld build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info normal i386    cd /Users/tim/devel/ROI_Info    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/tim/devel/ROI_Info/build/Debug -F/Users/tim/devel/ROI_Info/build/Debug -F/Users/tim/devel/ROI_Info -F/Users/tim/devel/osirix/build/Development -filelist /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info.LinkFileList -mmacosx-version-min=10.7 -undefined dynamic_lookup -fobjc-link-runtime -framework Cocoa -framework OsiriXAPI -Xlinker -dependency_info -Xlinker /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info_dependency_info.dat -o /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info36"7E1A302F-7730-4B90-80B6-D17E87C1C73B-
-b72197994-4CC5-4806-ADC0-6973000AC134
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Link /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info85"Ld build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info normal i38606f327a610c2b941^1fd62fa610c2b941^---0#0#1#--1019"Ld build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info normal i386    cd /Users/tim/devel/ROI_Info    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/tim/devel/ROI_Info/build/Debug -F/Users/tim/devel/ROI_Info/build/Debug -F/Users/tim/devel/ROI_Info -F/Users/tim/devel/osirix/build/Development -filelist /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info.LinkFileList -mmacosx-version-min=10.7 -undefined dynamic_lookup -fobjc-link-runtime -framework Cocoa -framework OsiriXAPI -Xlinker -dependency_info -Xlinker /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info_dependency_info.dat -o /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/i386/ROI_Info36"271EF53D-C534-4E3F-9626-59851AF60A37-
+b4A772605-2327-46D4-8232-F85894023A3D
 
 CLd /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info normal x86_64
-s432134200.909145
-e432134200.942466
+s432148646.155732
+e432148646.188091
 r1
 xLd
 x/Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info
@@ -455,6 +815,9 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
@@ -485,9 +848,6 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
@@ -508,18 +868,18 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Link /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info89"Ld build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info normal x86_640ccae838d8c1b941^d845f138d8c1b941^---0#0#1#--1031"Ld build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info normal x86_64    cd /Users/tim/devel/ROI_Info    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/tim/devel/ROI_Info/build/Debug -F/Users/tim/devel/ROI_Info/build/Debug -F/Users/tim/devel/ROI_Info -F/Users/tim/devel/osirix/build/Development -filelist /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info.LinkFileList -mmacosx-version-min=10.7 -undefined dynamic_lookup -fobjc-link-runtime -framework Cocoa -framework OsiriXAPI -Xlinker -dependency_info -Xlinker /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info_dependency_info.dat -o /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info36"F43269BA-87C4-4EB6-8901-DA2EA873C9D4-
-b72197994-4CC5-4806-ADC0-6973000AC134
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Link /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info89"Ld build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info normal x86_6481ea27a610c2b941^952730a610c2b941^---0#0#1#--1031"Ld build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info normal x86_64    cd /Users/tim/devel/ROI_Info    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/tim/devel/ROI_Info/build/Debug -F/Users/tim/devel/ROI_Info/build/Debug -F/Users/tim/devel/ROI_Info -F/Users/tim/devel/osirix/build/Development -filelist /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info.LinkFileList -mmacosx-version-min=10.7 -undefined dynamic_lookup -fobjc-link-runtime -framework Cocoa -framework OsiriXAPI -Xlinker -dependency_info -Xlinker /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info_dependency_info.dat -o /Users/tim/devel/ROI_Info/build/ROI_Info.build/Debug/ROI_Info.build/Objects-normal/x86_64/ROI_Info36"A2F2E8A5-D051-4A87-96BD-938961338449-
+b4A772605-2327-46D4-8232-F85894023A3D
 
 CProcessInfoPlistFile /Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin/Contents/Info.plist /Users/tim/devel/ROI_Info/Info.plist
-s432134199.392798
-e432134199.394048
+s432150545.413904
+e432150545.416922
 r1
 xProcessInfoPlistFile
 x/Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin/Contents/Info.plist
 x/Users/tim/devel/ROI_Info/Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process /Users/tim/devel/ROI_Info/Info.plist85"ProcessInfoPlistFile build/Debug/ROI_Info.osirixplugin/Contents/Info.plist Info.plist0f976437d8c1b941^95606537d8c1b941^---0#0#1#-19%DVTDocumentLocation2@43"file:///Users/tim/devel/ROI_Info/Info.plist0000000000000000^306"ProcessInfoPlistFile build/Debug/ROI_Info.osirixplugin/Contents/Info.plist Info.plist    cd /Users/tim/devel/ROI_Info    builtin-infoPlistUtility /Users/tim/devel/ROI_Info/Info.plist -expandbuildsettings -platform macosx -o /Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin/Contents/Info.plist36"8724D7EC-29FA-4456-B186-DF260F87B9B3-
-b72197994-4CC5-4806-ADC0-6973000AC134
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process /Users/tim/devel/ROI_Info/Info.plist85"ProcessInfoPlistFile build/Debug/ROI_Info.osirixplugin/Contents/Info.plist Info.plistacfd691118c2b941^73bc6a1118c2b941^---0#0#1#-19%DVTDocumentLocation2@43"file:///Users/tim/devel/ROI_Info/Info.plist0000000000000000^306"ProcessInfoPlistFile build/Debug/ROI_Info.osirixplugin/Contents/Info.plist Info.plist    cd /Users/tim/devel/ROI_Info    builtin-infoPlistUtility /Users/tim/devel/ROI_Info/Info.plist -expandbuildsettings -platform macosx -o /Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin/Contents/Info.plist36"270F1493-7358-4783-AB58-AAF9527F106B-
+bB1F09DB0-1948-4B2A-82F3-15B839942452
 
 CProcessPCH /Users/tim/Library/Developer/Xcode/DerivedData/ROI_Info-fifczdvuygrsoneadjniuabtltvn/Index/PrecompiledHeaders/ROI_Info_Prefix-cxvdcjxdyxwwkoeodjkmobtqgkwp_ast/ROI_Info_Prefix.pch.pch ROI_Info_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
 r0
@@ -558,11 +918,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Precomp
 b72197994-4CC5-4806-ADC0-6973000AC134
 
 CTouch /Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin
-s432134200.947651
-e432134200.950485
+s432150545.421122
+e432150545.424280
 r1
 xTouch
 x/Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Touch /Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin39"Touch build/Debug/ROI_Info.osirixplugin77a0f238d8c1b941^ce55f338d8c1b941^---0#0#1#--155"Touch build/Debug/ROI_Info.osirixplugin    cd /Users/tim/devel/ROI_Info    /usr/bin/touch -c /Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin36"31FB49FB-0C5A-46B5-8D43-3173B64A878F-
-b72197994-4CC5-4806-ADC0-6973000AC134
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Touch /Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin39"Touch build/Debug/ROI_Info.osirixplugin1fd66b1118c2b941^bf9d6c1118c2b941^---0#0#1#--155"Touch build/Debug/ROI_Info.osirixplugin    cd /Users/tim/devel/ROI_Info    /usr/bin/touch -c /Users/tim/devel/ROI_Info/build/Debug/ROI_Info.osirixplugin36"CAC56705-D64F-4300-B018-C6DD27360735-
+bB1F09DB0-1948-4B2A-82F3-15B839942452
 
