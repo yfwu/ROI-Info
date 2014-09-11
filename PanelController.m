@@ -100,13 +100,11 @@
             NSArray* roiListList = [viewerController roiList:curTimeIdx];
             NSArray* pixList = [viewerController pixList:curTimeIdx];
             [roiInfo appendString:[self extractRoiInfoInImage:roiListList PixArray:pixList]];
-            //NSLog(@"%@", roiInfo);
             break;
 
         case AllInSeries:
             NSLog(@"AllInSeries selected");
             [roiInfo appendString:[self extractRoiInfoInSeries]];
-            //NSLog(@"%@", roiInfo);
             break;
 
         default:
@@ -178,9 +176,8 @@
     float* data = [curPix getROIValue:&size :roi :&coords];
 
     for (int i = 0, j = 0; i < (int)size; i++, j+=2)
-    {
         [retVal appendFormat:@",%d,%d,%.6f,\n", (int)coords[j], (int)coords[j+1], data[i]];
-    }
+
     free(coords);
     free(data);
 
@@ -192,11 +189,8 @@
 {
     NSMutableString* retVal = [NSMutableString stringWithCapacity:1000];
 
-    for (NSUInteger idx = 0; idx < roiList.count; ++idx)
+    for (ROI* roi in roiList)
     {
-        ROI* roi = [roiList objectAtIndex:idx];
-        //DCMPix* pix = [pixList objectAtIndex:idx];
-        
         [retVal appendString:[self extractRoiValuesAndCoordinates:roi from:curPix]];
     }
 
@@ -209,7 +203,6 @@
 {
     NSMutableString* retVal = [NSMutableString stringWithCapacity:1000];
 
-    //for (NSArray* roiList in roiListList)
     int sliceIdx = 0;
     for (NSUInteger idx = 0; idx < roiListList.count; ++idx)
     {
