@@ -29,14 +29,28 @@
         viewerController = vc;
         pluginFilter = filter;
 
-        // Some information about which slice in which image is being viewed.
-        curImageIdx = (int)viewerController.imageIndex;
-        curTimeIdx = (int)viewerController.curMovieIndex;
-        numTimeImages = (int)viewerController.maxMovieIndex;
-
+        [self getSeriesInfo];
         [self showWindow:self];
     }
     return self;
+}
+
+// Some information about which slice in which image is being viewed.
+- (void)getSeriesInfo
+{
+    curImageIdx = (int)viewerController.imageIndex;
+    curTimeIdx = (int)viewerController.curMovieIndex;
+    numTimeImages = (int)viewerController.maxMovieIndex;
+    slicesPerImage = (int)[[viewerController pixList] count];
+    isFlipped = (int)[[viewerController imageView] flippedData];
+
+    NSLog(@"RoiSelection index = %d", roiSelection);
+    NSLog(@"Current image index = %d", curImageIdx);
+    NSLog(@"Current time index = %d", curTimeIdx);
+    NSLog(@"Slices per image = %d", slicesPerImage);
+    NSLog(@"Flipped data = %d", isFlipped);
+
+    NSLog(@"Number of time indices = %d", numTimeImages);
 }
 
 - (void)awakeFromNib
@@ -59,14 +73,7 @@
     viewerController = [ViewerController frontMostDisplayed2DViewer];
 
     // Some information about which slice in which image is being viewed.
-    curImageIdx = (int)viewerController.imageIndex;
-    curTimeIdx = (int)viewerController.curMovieIndex;
-    numTimeImages = (int)viewerController.maxMovieIndex;
-
-    //    NSLog(@"RoiSelection index = %d", RoiSelection);
-    //    NSLog(@"Current image index = %d", curImageIdx);
-    //    NSLog(@"Current time index = %d", curTimeIdx);
-    //    NSLog(@"Number of time indices = %d", numTimeImages);
+    [self getSeriesInfo];
 
     NSSavePanel* panel = [NSSavePanel savePanel];
     [panel setAllowedFileTypes:[NSArray arrayWithObjects:@"csv", nil]];
@@ -84,7 +91,7 @@
     NSMutableString* roiInfo = [NSMutableString
                                 stringWithString:@"Info,X coord,Y coord,Intensity,\n"];
 
-    switch (RoiSelection)
+    switch (roiSelection)
     {
         case AllInImage:
             NSLog(@"AllInImage selected");
@@ -92,13 +99,13 @@
             // The ROIs for this image.
             NSArray* roiListList = [viewerController roiList:curTimeIdx];
             [roiInfo appendString:[self extractRoiInfoInImage:roiListList]];
-            NSLog(@"%@", roiInfo);
+            //NSLog(@"%@", roiInfo);
             break;
 
         case AllInSeries:
             NSLog(@"AllInSeries selected");
             [roiInfo appendString:[self extractRoiInfoInSeries]];
-            NSLog(@"%@", roiInfo);
+            //NSLog(@"%@", roiInfo);
             break;
 
         default:
@@ -148,7 +155,7 @@
         return retVal;
     }
 
-    [retVal appendFormat:@"ROI %@,,\n", name];
+    [retVal appendFormat:@"ROI: %@,,\n", name];
 
     /*
      * getROIValue is declared in DCMPix.h.
@@ -194,7 +201,8 @@
     {
         if (roiList.count != 0)
         {
-            [retVal appendFormat:@"Slice: %d,,,,\n", sliceIdx];
+            int sliceNum = [self indexToSliceNumber:sliceIdx];
+            [retVal appendFormat:@"Slice: %d,,,,\n", sliceNum];
             [retVal appendString:[self extractRoiInfoInSlice:roiList]];
         }
         ++sliceIdx;
@@ -244,6 +252,22 @@
 
     NSError* error = [stream streamError];
     return error;
+}
+
+- (int)sliceNumberToIndex:(int)number
+{
+    if (isFlipped)
+        return slicesPerImage - number;
+    else
+        return number - 1;
+}
+
+- (int)indexToSliceNumber:(int)index
+{
+    if (isFlipped)
+        return slicesPerImage - index;
+    else
+        return index + 1;
 }
 
 @end

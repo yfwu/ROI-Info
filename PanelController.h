@@ -21,7 +21,7 @@
     };
 
     // Bound to radio matrix ControlPanel.xib
-    enum RoiSelectionType RoiSelection;
+    enum RoiSelectionType roiSelection;
     
     ViewerController* viewerController;
     ROI_InfoFilter* pluginFilter;
@@ -30,6 +30,9 @@
     int curImageIdx;
     int curTimeIdx;
     int numTimeImages;
+    int slicesPerImage;
+    BOOL isFlipped;
+    
     NSURL* saveFile;
 
     IBOutlet NSButton *extractInfoButton;
